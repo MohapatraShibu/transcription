@@ -1,6 +1,6 @@
 # speech to text
 
-multilingual real-time transcription app powered by gemini api.
+multilingual real-time transcription app powered by Gemini.
 
 ## features
 - real-time live captions while speaking (web speech api)
