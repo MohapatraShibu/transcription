@@ -2,6 +2,9 @@
 
 multilingual real-time transcription app powered by Gemini.
 
+## Application Link
+https://transcription-7wxp.onrender.com/
+
 ## features
 - real-time live captions while speaking (web speech api)
 - accurate final transcription using gemini-3.5-flash
