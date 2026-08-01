@@ -1,4 +1,4 @@
-# speech to text
+# transcription - speech to text
 
 multilingual real-time transcription app powered by Gemini.
 
