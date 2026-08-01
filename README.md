@@ -2,7 +2,7 @@
 
 multilingual real-time transcription app powered by Gemini.
 
-## Application Link
+## deployed application link
 https://transcription-7wxp.onrender.com/
 
 ## features
